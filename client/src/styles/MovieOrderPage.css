@@ -1,0 +1,18 @@
+
+.container {
+    margin-top: 20px;
+  }
+  
+  .movie-info {
+    margin-bottom: 20px;
+  }
+  
+  .seat-button {
+    min-width: 50px;
+    margin: 2px;
+  }
+  
+  .book-button {
+    margin-top: 20px;
+  }
+  
